@@ -27,7 +27,7 @@ python -m saned.train --source-cache-root data/source_cache --output-root output
 
 ## Download Checkpoint and Inference
 
-Download path: 
+Download path: https://pan.baidu.com/s/10iW4tKR7qniV3ppCi_TrMg?pwd=zbd1
 
 Download and save as `checkpoints/SANED.pt`。
 
